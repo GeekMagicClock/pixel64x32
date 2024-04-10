@@ -1,1 +1,1 @@
-# pixel64x32
+# GeekMagic Pixel Display model:pixel64x32
