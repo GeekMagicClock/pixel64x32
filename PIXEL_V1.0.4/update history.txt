@@ -1,0 +1,5 @@
+V1.0.4
+1) Fix server limits.
+
+V1.0.3
+1）Fix screen flickering.
