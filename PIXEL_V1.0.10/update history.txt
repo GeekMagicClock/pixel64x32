@@ -1,0 +1,20 @@
+V1.0.9
+1) Fix stuck 404, when the ticker symbol is empty.
+
+V1.0.8
+1) Fix AP mode stable.
+
+V1.0.7
+1) Fix: stock price change percent, it's should not be the chart's change percent.
+
+V1.0.6
+1) Stable fix.
+
+V1.0.5
+1) Fix update interval.
+
+V1.0.4
+1) Fix server limits.
+
+V1.0.3
+1）Fix screen flickering.
