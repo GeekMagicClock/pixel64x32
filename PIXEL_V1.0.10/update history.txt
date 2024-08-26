@@ -1,4 +1,4 @@
-V1.0.9
+V1.0.10
 1) Fix stuck 404, when the ticker symbol is empty.
 
 V1.0.8
