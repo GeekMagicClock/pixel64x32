@@ -1,4 +1,8 @@
-V1.0.10
+V1.0.11
+1) Remove loop switch.
+2) Fix percent round problem.
+
+V1.0.9
 1) Fix stuck 404, when the ticker symbol is empty.
 
 V1.0.8
