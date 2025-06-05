@@ -1,0 +1,40 @@
+V1.0.17 #UPDATES:
+1) Feature: Faster update interval for stocks.
+2) Optimize: Connect to the strongest wifi signal when start.
+3) BUG: Fix stock request stability.
+
+V1.0.14 #UPDATES:
+1) BUG: Fix possible percent display 0.0% problem.
+
+V1.0.13 #UPDATES:
+1) BUG: Fix a 5 minutes sync time error.
+2) BUG: Fixed an issue where some user settings did not reload after restarting..
+3) Feature: Add loop function bettween themes.
+
+V1.0.12
+1) Fix night mode bug, it's recommended to enable night mode for long term use.
+
+V1.0.11
+1) Remove loop switch.
+2) Fix percent round problem.
+
+V1.0.9
+1) Fix stuck 404, when the ticker symbol is empty.
+
+V1.0.8
+1) Fix AP mode stable.
+
+V1.0.7
+1) Fix: stock price change percent, it's should not be the chart's change percent.
+
+V1.0.6
+1) Stable fix.
+
+V1.0.5
+1) Fix update interval.
+
+V1.0.4
+1) Fix server limits.
+
+V1.0.3
+1）Fix screen flickering.
